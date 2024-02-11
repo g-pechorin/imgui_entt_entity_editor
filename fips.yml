@@ -1,4 +1,4 @@
-# fips-mmEditor
+# fips__mm_editor
 ---
 exports :
     header-dirs : [ ./ ]
